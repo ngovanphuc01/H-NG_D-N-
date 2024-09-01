@@ -1,1 +1,2 @@
-# H-NG_D-N-
+CÁCH SỰ DỤNG FILE HTTP CUSTOM 
+( ANDROID ): 
